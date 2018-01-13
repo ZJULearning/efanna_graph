@@ -80,15 +80,6 @@ How To Use
    Please see the documentation of [faiss](https://github.com/facebookresearch/faiss) for how to set these two parameters.
 
 
-* kNN graph refine by nndescent:    
-
-		cd tests/   
-		./test_nndescent_refine data_file init_graph save_graph K L iter S R
-
- Meaning of the parameters:    
-
-    **init_graph** is the path of the init kNN graph to be refined.
-
 
 Output format
 ------
