@@ -48,7 +48,7 @@ How To Use
     **L** is the parameter controlling the graph quality, larger is more accurate but slower, no smaller than K.
     **iter** is the parameter controlling the iteration times, iter usually < 30.
     **S** is the parameter contollling the graph quality, larger is more accurate but slower.
-    **R** is the parameter controlling the graph quality, larger is more accurate but slower, no smaller than K.
+    **R** is the parameter controlling the graph quality, larger is more accurate but slower.
 
 
 * kNN graph initilization with KD-tree and refine by nndescent (efanna):    
