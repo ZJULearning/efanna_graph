@@ -5,6 +5,7 @@
 #include <efanna2e/exceptions.h>
 #include <efanna2e/parameters.h>
 #include <faiss/index_io.h>
+#include <faiss/index_factory.h>
 #include <omp.h>
 
 namespace efanna2e {
